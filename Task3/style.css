@@ -1,0 +1,8 @@
+body {font-size:12pt;color: #003399;font-family: Candara}
+
+h2{font-size:22pt}
+h3{font-size:14pt}
+
+.clearme{clear: both}
+
+#carouselExampleControls {height:400px;width: 300px} img {height:400px}
